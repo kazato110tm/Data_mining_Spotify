@@ -1,1 +1,2 @@
 # Data_mining_Spotify
+Spotifyの属性データをもとにその特徴を可視化する
